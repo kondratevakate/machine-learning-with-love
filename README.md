@@ -1,7 +1,7 @@
 # machine-learning-with-love
-## Express course in ML to fell in love with :heart:
+### Express course in ML to fell in love with :heart:
 
-## В этом репозитории:
+#### В этом репозитории:
 1. Лекция: Введение в Методы Машинного Обучения.  Практикум: Python, GitHub, Collaboratory
 2. Обучение с учителем: Линейная и логистическая регрессия. Ядра.
 3. Обучение с учителем: Регуляризация в линейных моделях. Метод Ближайших Соседей (KNN)
