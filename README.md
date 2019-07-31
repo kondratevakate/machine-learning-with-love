@@ -13,19 +13,21 @@
 9. Стекинг, вотинг. Градиентный бустинг. Пакеты XGBoost, Catboost, LightGBM
 
 ## Полезные ссылки: 
-#### Введение в ML:
-- Курс `ods`: https://github.com/Yorko/mlcourse.ai
+- Введение в `ML` курс `Open Data Science (ODS)`: https://github.com/Yorko/mlcourse.ai
 - Машинное обучение ВШЭ: https://github.com/esokolov/ml-course-hse/
-- `Python`: https://stepik.org/course/Программирование-на-Python-67 
+- `python`: https://stepik.org/course/Программирование-на-Python-67 
 - Статистика: https://stepik.org/course/Основы-статистики-76 
+-  Математика и матричные операции (очень трушный курс) `Gilbert Strang lectures on Linear Algebra (MIT)`: https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D
+- `python` and `SQL` for (data organization) в поиске здесь: https://www.datacamp.com/
+
+#### ML Тусовка:
+- `Slack` датасайнc комьюнити: http://ods.ai 
+Очень полезная вещь - канал `#jobs`
+- Группа express_ml в Facebook: https://www.facebook.com/groups/expressml/
  
 #### Соревы:
 - Список : http://mltraiвсехnings.ru
 - Популярная площадка: https://kaggle.com
-
-#### ML Тусовка:
-- `Slack` датасайнc комьюнити: http://ods.ai 
-- Группа express_ml в Facebook: https://www.facebook.com/groups/expressml/
 
 #### Новые разработки в области машинного обучения:
 - Топовые конференции: https://nips.cc/, https://icml.cc/
