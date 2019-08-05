@@ -15,7 +15,8 @@
 9. **Лекция и практикум.** Стекинг, вотинг. Градиентный бустинг. Пакеты XGBoost, Catboost, LightGBM
 
 ## Полезные ссылки: 
-- Введение в `ML` курс `Open Data Science (ODS)`: https://github.com/Yorko/mlcourse.ai
+- Введение в `ML` курс `Open Data Science (ODS)`: https://mlcourse.ai/ 
+И гитхаб соответсвующий: https://github.com/Yorko/mlcourse.ai
 - Машинное обучение ВШЭ: https://github.com/esokolov/ml-course-hse/
 - `python`: https://stepik.org/course/Программирование-на-Python-67 
 - Статистика: https://stepik.org/course/Основы-статистики-76 
