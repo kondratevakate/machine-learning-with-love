@@ -1,7 +1,7 @@
 # machine-learning-with-love
 ### Express course in ML to fell in love with :heart:
 
-#### Вам не нужен этот курс, если вы легко можете в [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qyLAIuMOkFHjpofDvYLZAhOnFkhuyw7G?authuser=1)
+#### Авторы: Екатерина Кондратьева @katushka2ushka и Полина Полунина @ppolunina
 
 #### В этом репозитории:
 1. **Лекция:** Введение в Методы Машинного Обучения.  **Практикум:** Python, GitHub, Collaboratory
@@ -35,3 +35,5 @@
 #### Новые разработки в области машинного обучения:
 - Топовые конференции: https://nips.cc/, https://icml.cc/
 - Препринты публикаций: https://arxiv.org/list/stat.ML/recent
+
+#### Вам не нужен этот курс, если вы легко можете в [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qyLAIuMOkFHjpofDvYLZAhOnFkhuyw7G?authuser=1)
